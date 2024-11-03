@@ -6,11 +6,11 @@ global.autoReadGc = true;
 global.autoReadAll = false;
 global.antitags = true;
 
-global.Owner = ["917059114934"];
-global.OwnerNumber = ["917059114934"];
-global.ownertag = ["917059114934"];
+global.Owner = ["24104045290"];
+global.OwnerNumber = ["24104045290"];
+global.ownertag = ["24104045290"];
 global.BotName = "Maria-Md";
-global.OwnerName = "অজয় রায় চৌধুরী🙂";
+global.OwnerName = "cartee🙂";
 global.support = "https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"
 //global.sessionName = "session";
 global.themeemoji = '🍭';
